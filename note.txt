@@ -1,3 +1,6 @@
 soccer
 football
 baseball
+peanuts
+fruit
+crackers
